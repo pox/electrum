@@ -26,3 +26,5 @@ electrum/gui/kivy/theming/light.atlas
 .cache/
 .coverage
 .pytest_cache
+
+.ropeproject
